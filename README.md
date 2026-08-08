@@ -1,38 +1,25 @@
 <p align="center">
-  <img src="assets/dba-infrastructure-banner.png" alt="Infraestrutura tecnológica de bancos de dados" width="100%">
+  <img src="assets/dba-infrastructure-banner.png" alt="Infraestrutura tecnológica de bancos de dados com servidores, clusters e conectividade" width="100%">
 </p>
 
 <h1 align="center">Patrick Cecilio</h1>
 
 <p align="center">
-  <strong>DBA Oracle & SQL Server | Oracle Database 9i às versões atuais | Linux | Automação</strong>
+  <strong>DBA Oracle & SQL Server</strong><br>
+  Oracle Database 9i às versões atuais · Linux · Automação
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database-0B1F33?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Database">
-  <img src="https://img.shields.io/badge/SQL_Server-Database-0B1F33?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/Linux-Administration-0B1F33?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/Bash-Automation-0B1F33?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash">
-  <img src="https://img.shields.io/badge/Python-Automation-0B1F33?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python">
+  <img src="https://img.shields.io/badge/Oracle-Database-0B1F33?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Database">
+  <img src="https://img.shields.io/badge/SQL_Server-Database-0B1F33?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Linux-Administration-0B1F33?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
 </p>
 
 Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9i às versões atuais**, e **Microsoft SQL Server**. Experiência prática em administração e sustentação de ambientes, backup e recuperação, monitoramento, análise de desempenho, troubleshooting, automação e documentação técnica.
 
 ---
 
-## 🧭 Competências
-
-- **Oracle Database:** versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
-- **SQL Server:** administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho;
-- **SQL e ferramentas Oracle:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
-- **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
-- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico;
-- **Sistemas e automação:** Oracle Linux, Bash, Shell Script e Python;
-- **Outras tecnologias:** PostgreSQL e Docker.
-
----
-
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### [Oracle Database 19c Multitenant Deployment](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
 
@@ -50,9 +37,17 @@ Restore, recovery e validações pós-recuperação documentadas com evidências
 
 Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
----
+## Atuação técnica
 
-## 🎓 Formação e certificações
+- **Oracle Database:** versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
+- **SQL Server:** administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho;
+- **SQL e ferramentas Oracle:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
+- **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
+- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico;
+- **Sistemas e automação:** Oracle Linux, Bash, Shell Script e Python;
+- **Outras tecnologias:** PostgreSQL e Docker.
+
+## Formação e certificações
 
 - Bacharelado em Sistemas de Informação — em andamento;
 - Oracle Data Platform 2025 Certified Foundations Associate;
@@ -60,9 +55,7 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate;
 - Oracle SQL Explorer.
 
----
-
-## ⚙️ Princípios de trabalho
+## Princípios de trabalho
 
 - mudanças rastreáveis e documentadas;
 - revisão antes de execução em produção;
@@ -72,17 +65,10 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
 ---
 
-## 🌎 Contato
+## Contato profissional
 
-<p align="center">
-  <a href="https://github.com/PatrickCecilio">
-    <img src="https://img.shields.io/badge/GitHub-PatrickCecilio-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PatrickCecilio">
-  </a>
-</p>
-
-<p align="center">Localização: Manaus, Amazonas, Brasil</p>
-
----
+- GitHub: [PatrickCecilio](https://github.com/PatrickCecilio)
+- Localização: Manaus, Amazonas, Brasil
 
 <details>
 <summary><strong>English summary</strong></summary>
