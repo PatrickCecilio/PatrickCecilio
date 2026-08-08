@@ -35,7 +35,7 @@ Materiais autorais e revisados de Oracle, SQL Server, Linux, Docker e PostgreSQL
 
 ### [Disaster Recovery com Oracle RMAN](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment/tree/main/images/projects/06-oracle-rman-disaster-recovery)
 
-Restore, recovery e validações pós-recuperação documentadas com evidências anonimizadas.
+Restore, recovery e validações pós-recuperação documentadas com evidências técnicas.
 
 ### [Migração com Oracle Data Pump](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment/tree/main/images/projects/04-oracle-data-pump-schema-migration)
 
@@ -71,7 +71,6 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
 - mudanças rastreáveis e documentadas;
 - revisão antes de execução em produção;
-- proteção de credenciais e dados de clientes;
 - automação com validação e possibilidade de rollback;
 - autoria e proveniência transparentes.
 
