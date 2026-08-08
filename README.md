@@ -1,16 +1,18 @@
 # Patrick Cecílio
 
-**DBA Oracle | Oracle Database 19c | RMAN | Multitenant | Linux**
+**DBA Oracle & SQL Server | Oracle Database 9i às versões atuais | Linux | Automação**
 
-Administrador de Banco de Dados com experiência prática em sustentação de ambientes Oracle, backup e recovery, monitoramento, troubleshooting, automação e documentação técnica.
+Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9i às versões atuais**, e **Microsoft SQL Server**. Experiência prática em administração e sustentação de ambientes, backup e recuperação, monitoramento, análise de desempenho, troubleshooting, automação e documentação técnica.
 
 ## Competências
 
-- **Oracle Database:** 19c, SQL, PL/SQL, Multitenant CDB/PDB, Data Pump e Oracle Net Services;
+- **Oracle Database:** versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
+- **SQL Server:** administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho;
+- **SQL e ferramentas Oracle:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
 - **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
 - **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico;
 - **Sistemas e automação:** Oracle Linux, Bash, Shell Script e Python;
-- **Outras tecnologias:** PostgreSQL, SQL Server e Docker.
+- **Outras tecnologias:** PostgreSQL e Docker.
 
 ## Projetos em destaque
 
@@ -53,4 +55,4 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
 ## English summary
 
-Oracle Database Administrator focused on Oracle Database 19c, RMAN, Multitenant CDB/PDB, Linux, troubleshooting, automation and technical documentation.
+Oracle and SQL Server Database Administrator working with Oracle Database from 9i through current releases, including RMAN, Multitenant CDB/PDB, Linux, troubleshooting, performance analysis, automation and technical documentation.
