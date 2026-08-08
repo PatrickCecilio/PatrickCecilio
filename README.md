@@ -45,15 +45,19 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
 ### Oracle Database
 
-Versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB. SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch. RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard. Tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico.
+- **Versões e arquitetura:** 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
+- **SQL e ferramentas:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
+- **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
+- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico.
 
 ### SQL Server
 
-Administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho.
+- Administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho.
 
 ### Infrastructure & Automation
 
-Oracle Linux, Bash, Shell Script e Python. PostgreSQL e Docker.
+- Oracle Linux, Bash, Shell Script e Python;
+- PostgreSQL e Docker.
 
 ## Formação e certificações
 
