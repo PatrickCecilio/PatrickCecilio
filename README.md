@@ -6,7 +6,9 @@
 
 <p align="center">
   <strong>DBA Oracle & SQL Server</strong><br>
-  Oracle Database 9i às versões atuais · Linux · Automação
+  <strong>Database Infrastructure</strong><br>
+  Oracle Database 9i às versões atuais<br>
+  Backup & Recovery · Multitenant · Performance · Linux · Automation
 </p>
 
 <p align="center">
@@ -21,9 +23,11 @@ Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9
 
 ## Projetos em destaque
 
-### [Oracle Database 19c Multitenant Deployment](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
-
-Instalação silenciosa no Oracle Linux, criação de CDB/PDB, aplicação de Release Update com OPatch/datapatch e validação técnica do ambiente.
+> ### Oracle Database 19c Multitenant Deployment
+>
+> Instalação silenciosa no Oracle Linux, criação de CDB/PDB, aplicação de Release Update com OPatch/datapatch e validação técnica do ambiente.
+>
+> [Abrir projeto →](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
 
 ### [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba)
 
@@ -39,13 +43,21 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
 ## Atuação técnica
 
-- **Oracle Database:** versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
-- **SQL Server:** administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho;
-- **SQL e ferramentas Oracle:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
+### Oracle Database
+
+- **Versões e arquitetura:** 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
+- **SQL e ferramentas:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
 - **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
-- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico;
-- **Sistemas e automação:** Oracle Linux, Bash, Shell Script e Python;
-- **Outras tecnologias:** PostgreSQL e Docker.
+- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico.
+
+### SQL Server
+
+- Administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho.
+
+### Infrastructure & Automation
+
+- Oracle Linux, Bash, Shell Script e Python;
+- PostgreSQL e Docker.
 
 ## Formação e certificações
 
