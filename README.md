@@ -1,10 +1,26 @@
-# Patrick Cecílio
+<p align="center">
+  <img src="assets/dba-infrastructure-banner.png" alt="Infraestrutura tecnológica de bancos de dados" width="100%">
+</p>
 
-**DBA Oracle & SQL Server | Oracle Database 9i às versões atuais | Linux | Automação**
+<h1 align="center">Patrick Cecilio</h1>
+
+<p align="center">
+  <strong>DBA Oracle & SQL Server | Oracle Database 9i às versões atuais | Linux | Automação</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Database-0B1F33?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Database">
+  <img src="https://img.shields.io/badge/SQL_Server-Database-0B1F33?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Linux-Administration-0B1F33?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-Automation-0B1F33?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash">
+  <img src="https://img.shields.io/badge/Python-Automation-0B1F33?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python">
+</p>
 
 Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9i às versões atuais**, e **Microsoft SQL Server**. Experiência prática em administração e sustentação de ambientes, backup e recuperação, monitoramento, análise de desempenho, troubleshooting, automação e documentação técnica.
 
-## Competências
+---
+
+## 🧭 Competências
 
 - **Oracle Database:** versões 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
 - **SQL Server:** administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho;
@@ -14,7 +30,9 @@ Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9
 - **Sistemas e automação:** Oracle Linux, Bash, Shell Script e Python;
 - **Outras tecnologias:** PostgreSQL e Docker.
 
-## Projetos em destaque
+---
+
+## 🚀 Projetos em destaque
 
 ### [Oracle Database 19c Multitenant Deployment](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
 
@@ -32,7 +50,9 @@ Restore, recovery e validações pós-recuperação documentadas com evidências
 
 Exportação, importação e validação de schemas com `expdp` e `impdp`.
 
-## Formação e certificações
+---
+
+## 🎓 Formação e certificações
 
 - Bacharelado em Sistemas de Informação — em andamento;
 - Oracle Data Platform 2025 Certified Foundations Associate;
@@ -40,7 +60,9 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate;
 - Oracle SQL Explorer.
 
-## Princípios de trabalho
+---
+
+## ⚙️ Princípios de trabalho
 
 - mudanças rastreáveis e documentadas;
 - revisão antes de execução em produção;
@@ -48,11 +70,24 @@ Exportação, importação e validação de schemas com `expdp` e `impdp`.
 - automação com validação e possibilidade de rollback;
 - autoria e proveniência transparentes.
 
-## Contato
+---
 
-- GitHub: [PatrickCecilio](https://github.com/PatrickCecilio)
-- Localização: Manaus, Amazonas, Brasil
+## 🌎 Contato
 
-## English summary
+<p align="center">
+  <a href="https://github.com/PatrickCecilio">
+    <img src="https://img.shields.io/badge/GitHub-PatrickCecilio-0B1F33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PatrickCecilio">
+  </a>
+</p>
+
+<p align="center">Localização: Manaus, Amazonas, Brasil</p>
+
+---
+
+<details>
+<summary><strong>English summary</strong></summary>
+<br>
 
 Oracle and SQL Server Database Administrator working with Oracle Database from 9i through current releases, including RMAN, Multitenant CDB/PDB, Linux, troubleshooting, performance analysis, automation and technical documentation.
+
+</details>
