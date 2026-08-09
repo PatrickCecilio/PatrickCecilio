@@ -29,6 +29,14 @@ Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9
 >
 > [Abrir projeto →](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
 
+<br>
+
+> ### SQL Server Backup & Point-in-Time Recovery Lab
+>
+> Cadeia de backups full, diferencial e transaction log, simulação de exclusão acidental, recuperação point-in-time com `STOPAT` e validação em uma base alternativa.
+>
+> [Abrir projeto →](https://github.com/PatrickCecilio/sql-server-backup-recovery-lab)
+
 ### [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba)
 
 Materiais autorais e revisados de Oracle, SQL Server, Linux, Docker e PostgreSQL, organizados por nível de conhecimento.
