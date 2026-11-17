@@ -1,98 +1,43 @@
 <p align="center">
-  <img src="assets/dba-infrastructure-banner.png" alt="Infraestrutura tecnológica de bancos de dados com servidores, clusters e conectividade" width="100%">
+  <img src="assets/dba-infrastructure-banner.png" alt="Infraestrutura de bancos de dados" width="100%">
 </p>
 
-<h1 align="center">Patrick Cecilio</h1>
+# Patrick Cecílio
 
-<p align="center">
-  <strong>DBA Oracle & SQL Server</strong><br>
-  <strong>Database Infrastructure</strong><br>
-  Oracle Database 9i às versões atuais<br>
-  Backup & Recovery · Multitenant · Performance · Linux · Automation
-</p>
+**Oracle Database · SQL Server · Backup & Recovery · Linux · Automação**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database-0B1F33?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Database">
-  <img src="https://img.shields.io/badge/SQL_Server-Database-0B1F33?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/Linux-Administration-0B1F33?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
-</p>
+Profissional de TI com experiência em infraestrutura, segurança e operação de bancos de dados. Na atuação profissional, trabalhei com consultas SQL, validação e correção de dados, conexões, usuários e permissões, acompanhamento de backups e suporte a sistemas integrados em Oracle, SQL Server e PostgreSQL. Este GitHub documenta laboratórios de administração de bancos de dados com escopo, comandos, evidências e critérios de validação explícitos.
 
-Administrador de Banco de Dados com atuação em **Oracle Database, da versão 9i às versões atuais**, e **Microsoft SQL Server**. Experiência prática em administração e sustentação de ambientes, backup e recuperação, monitoramento, análise de desempenho, troubleshooting, automação e documentação técnica.
+## Projetos técnicos
 
----
+| Projeto | Escopo e evidência |
+|---|---|
+| [Oracle Database 19c Multitenant](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment) | Instalação silenciosa no Oracle Linux, criação de CDB/PDB, aplicação de Release Update com OPatch e datapatch e validação no dicionário de dados. |
+| [SQL Server: backup e recuperação pontual](https://github.com/PatrickCecilio/sql-server-backup-recovery-lab) | Cadeia full, diferencial e log; incidente simulado; restore em base alternativa com `STOPAT`; conferência do dado recuperado. |
+| [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba) | Referências de Oracle, SQL Server, PostgreSQL e Linux, com [comandos classificados por risco operacional](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/COMANDOS-POR-RISCO.md). |
 
-## Projetos em destaque
+## Método de operação
 
-> ### Oracle Database 19c Multitenant Deployment
->
-> Instalação silenciosa no Oracle Linux, criação de CDB/PDB, aplicação de Release Update com OPatch/datapatch e validação técnica do ambiente.
->
-> [Abrir projeto →](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment)
+1. **Preflight:** identificar instância, banco, container, ambiente, versão, privilégios, dependências e espaço disponível.
+2. **Proteção:** confirmar backup restaurável, cadeia de logs/archivelogs, ponto de recuperação e RPO/RTO exigidos pelo cenário.
+3. **Mudança:** registrar escopo, janela, comandos, responsáveis, critérios de parada e plano de retorno antes da execução.
+4. **Validação:** conferir estado dos serviços, consistência dos objetos, dados esperados, logs e evidências após a mudança.
 
-<br>
+O [índice por risco](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/COMANDOS-POR-RISCO.md) separa consultas de alterações reversíveis, ações com indisponibilidade e operações destrutivas. O nível de estudo de um arquivo não indica que seu comando seja seguro para produção.
 
-> ### SQL Server Backup & Point-in-Time Recovery Lab
->
-> Cadeia de backups full, diferencial e transaction log, simulação de exclusão acidental, recuperação point-in-time com `STOPAT` e validação em uma base alternativa.
->
-> [Abrir projeto →](https://github.com/PatrickCecilio/sql-server-backup-recovery-lab)
+## Competências demonstradas
 
-### [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba)
+- **Bancos de dados:** Oracle Database, SQL Server, PostgreSQL, SQL, usuários e permissões, conexões e rotinas de backup.
+- **Laboratórios documentados:** Oracle 19c Multitenant, OPatch/datapatch, RMAN e recuperação point-in-time no SQL Server.
+- **Infraestrutura e automação:** Linux, Shell Script, Python, monitoramento e documentação técnica.
 
-Materiais autorais e revisados de Oracle, SQL Server, Linux, Docker e PostgreSQL, organizados por nível de conhecimento.
-
-### [Disaster Recovery com Oracle RMAN](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment/tree/main/images/projects/06-oracle-rman-disaster-recovery)
-
-Restore, recovery e validações pós-recuperação documentadas com evidências técnicas.
-
-### [Migração com Oracle Data Pump](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment/tree/main/images/projects/04-oracle-data-pump-schema-migration)
-
-Exportação, importação e validação de schemas com `expdp` e `impdp`.
-
-## Atuação técnica
-
-### Oracle Database
-
-- **Versões e arquitetura:** 9i, 10g, 11g, 12c, 18c, 19c, 21c, 23ai e posteriores, incluindo arquiteturas tradicionais e Multitenant CDB/PDB;
-- **SQL e ferramentas:** SQL, PL/SQL, Data Pump, Oracle Net Services, OPatch e datapatch;
-- **Backup e recuperação:** RMAN, FRA, archived logs, restore, recovery, Flashback e fundamentos de Data Guard;
-- **Administração:** tablespaces, datafiles, usuários, roles, profiles, segurança e diagnóstico.
-
-### SQL Server
-
-- Administração, T-SQL, backup e restore, SQL Server Agent, monitoramento, manutenção, troubleshooting e análise de desempenho.
-
-### Infrastructure & Automation
-
-- Oracle Linux, Bash, Shell Script e Python;
-- PostgreSQL e Docker.
-
-## Formação e certificações
-
-- Bacharelado em Sistemas de Informação — em andamento;
-- Oracle Data Platform 2025 Certified Foundations Associate;
-- OCI Multicloud Architect Professional 2025;
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate;
-- Oracle SQL Explorer.
-
-## Princípios de trabalho
-
-- mudanças rastreáveis e documentadas;
-- revisão antes de execução em produção;
-- automação com validação e possibilidade de rollback;
-- autoria e proveniência transparentes.
-
----
-
-## Contato profissional
-
-- GitHub: [PatrickCecilio](https://github.com/PatrickCecilio)
-- Localização: Manaus, Amazonas, Brasil
+- **Formação:** Bacharelado em Sistemas de Informação, em andamento.
+- **Localização:** Manaus, Amazonas, Brasil.
+- **LinkedIn:** [patrickcecilio](https://www.linkedin.com/in/patrickcecilio/)
 
 <details>
-<summary><strong>English summary</strong></summary>
-<br>
+<summary>English summary</summary>
 
-Oracle and SQL Server Database Administrator working with Oracle Database from 9i through current releases, including RMAN, Multitenant CDB/PDB, Linux, troubleshooting, performance analysis, automation and technical documentation.
+IT professional with hands-on experience in infrastructure, security and database operations. This portfolio documents Oracle 19c and SQL Server administration labs, with explicit scope, recovery procedures, validation steps and operational risk classification.
 
 </details>
