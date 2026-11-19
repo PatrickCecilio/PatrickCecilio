@@ -14,7 +14,7 @@ Profissional de TI com experiência em infraestrutura, segurança e operação d
 |---|---|
 | [Oracle Database 19c Multitenant](https://github.com/PatrickCecilio/oracle-19c-multitenant-deployment) | Instalação silenciosa no Oracle Linux, criação de CDB/PDB, aplicação de Release Update com OPatch e datapatch e validação no dicionário de dados. |
 | [SQL Server: backup e recuperação pontual](https://github.com/PatrickCecilio/sql-server-backup-recovery-lab) | Cadeia full, diferencial e log; incidente simulado; restore em base alternativa com `STOPAT`; conferência do dado recuperado. |
-| [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba) | Referências de Oracle, SQL Server, PostgreSQL e Linux, com [critérios D0–D3](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/COMANDOS-POR-RISCO.md) e [inventário dos 464 arquivos](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/INVENTARIO-RISCO.md). |
+| [Biblioteca Técnica DBA](https://github.com/PatrickCecilio/biblioteca-tecnica-dba) | Referências de Oracle, SQL Server, PostgreSQL e Linux, com [critérios D0–D3](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/COMANDOS-POR-RISCO.md) e [inventário atualizado](https://github.com/PatrickCecilio/biblioteca-tecnica-dba/blob/main/INVENTARIO-RISCO.md). |
 
 ## Método de operação
 
